@@ -1,0 +1,16 @@
+CS 101 - Introduction to Computer Science
+Spring 2024
+
+Course Schedule:
+
+Week 1 (Jan 15-19)
+- Assignment 1 Due: January 20, 2024
+- Reading: Chapters 1-2
+
+Week 2 (Jan 22-26)
+- Quiz 1: January 25, 2024
+- Assignment 2 Due: January 27, 2024
+
+Midterm Exam: February 15, 2024 at 2:00 PM
+
+Final Exam: May 10, 2024 at 3:00 PM

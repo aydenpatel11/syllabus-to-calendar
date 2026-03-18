@@ -1,4 +1,4 @@
-# Syllabus to Calendar
+# SyllabuSync
 
 A Python-based application that automatically extracts important academic dates from course syllabi (PDF or text) and adds them to Google Calendar.
 
